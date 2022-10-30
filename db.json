@@ -10,10 +10,10 @@
   },
   "offersDetails": [
     {
-        "id": "offer001",
+        "id": "1",
         "title": "OfferDetails",
         "offerDetails": {
-            "offerId": "offer001",
+            "offerId": "1",
             "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1125&h=750&q=80",
             "brand": "BURGUER JOINT",
             "favoriteCount": 125,
@@ -29,10 +29,10 @@
         }
     },
     {
-        "id": "offer002",
+        "id": "2",
         "title": "OfferDetails",
         "offerDetails": {
-            "offerId": "offer002",
+            "offerId": "2",
             "imageUrl": "https://images.unsplash.com/photo-1561651823-34feb02250e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1125&h=750&q=80",
             "brand": "Shawerma El Reem",
             "favoriteCount": 1459,
@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "offer003",
+        "id": "3",
         "title": "OfferDetails",
         "offerDetails": {
-            "offerId": "offer003",
+            "offerId": "3",
             "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&auto=format&fit=crop&w=1125&h=750&q=80",
             "brand": "Pizza King",
             "favoriteCount": 45,
@@ -67,10 +67,10 @@
         }
     },
     {
-        "id": "offer004",
+        "id": "4",
         "title": "OfferDetails",
         "offerDetails": {
-            "offerId": "offer004",
+            "offerId": "4",
             "imageUrl": "https://images.unsplash.com/photo-1510157059722-9c3c2175ed1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1125&h=750&q=80",
             "brand": "Bose",
             "favoriteCount": 782,
