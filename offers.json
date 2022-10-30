@@ -1,0 +1,78 @@
+[
+    {
+        "id": "offer001",
+        "title": "OfferDetails",
+        "offerDetails": {
+            "offerId": "offer001",
+            "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1125&h=750&q=80",
+            "brand": "BURGUER JOINT",
+            "favoriteCount": 125,
+            "title": "2 sandwiches + fries + Pepsi for EGP 300!",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "hasDiscount": true,
+            "currency": "EGP",
+            "price": 450,
+            "discountPrice": 300,
+            "startDate": "2022-10-21T00:00:00Z",
+            "expDate": "2022-10-21T00:00:00Z",
+            "redemptionsCap": 4
+        }
+    },
+    {
+        "id": "offer002",
+        "title": "OfferDetails",
+        "offerDetails": {
+            "offerId": "offer002",
+            "imageUrl": "https://images.unsplash.com/photo-1561651823-34feb02250e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1125&h=750&q=80",
+            "brand": "Shawerma El Reem",
+            "favoriteCount": 1459,
+            "title": "4 Sandwiches",
+            "description": "Aenean pulvinar maximus lectus, nec elementum tellus dictum sed. Integer ultrices quam eget diam vehicula, ac accumsan est consequat.",
+            "hasDiscount": false,
+            "currency": "EUR",
+            "price": 25,
+            "discountPrice": 0,
+            "startDate": "2022-10-21T00:00:00Z",
+            "expDate": "2022-10-21T00:00:00Z",
+            "redemptionsCap": 8
+        }
+    },
+    {
+        "id": "offer003",
+        "title": "OfferDetails",
+        "offerDetails": {
+            "offerId": "offer003",
+            "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&auto=format&fit=crop&w=1125&h=750&q=80",
+            "brand": "Pizza King",
+            "favoriteCount": 45,
+            "title": "Special Combo for 5 USD only instead of 15 USD!",
+            "description": "Mauris sollicitudin, justo eu facilisis bibendum, libero tortor porttitor nulla, fringilla finibus dui tortor et arcu. Donec eget lorem lectus. Nullam eget est eget quam rhoncus pretium ac id nulla.",
+            "hasDiscount": true,
+            "currency": "USD",
+            "price": 15,
+            "discountPrice": 5,
+            "startDate": "2022-10-21T00:00:00Z",
+            "expDate": "2022-10-21T00:00:00Z",
+            "redemptionsCap": 99
+        }
+    },
+    {
+        "id": "offer004",
+        "title": "OfferDetails",
+        "offerDetails": {
+            "offerId": "offer004",
+            "imageUrl": "https://images.unsplash.com/photo-1510157059722-9c3c2175ed1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1125&h=750&q=80",
+            "brand": "Bose",
+            "favoriteCount": 782,
+            "title": "5% Cashbacks Paying with Lucky",
+            "description": "Cras convallis sodales purus. Donec condimentum finibus ante, sollicitudin posuere ipsum pretium nec. Sed accumsan metus vitae augue imperdiet dictum. Proin vel pellentesque orci, euismod iaculis felis. Vestibulum tempor iaculis elementum. Etiam eu eleifend nunc. Donec commodo convallis enim nec consectetur.",
+            "hasDiscount": false,
+            "currency": "EGP",
+            "price": 445,
+            "discountPrice": 0,
+            "startDate": "2022-10-21T00:00:00Z",
+            "expDate": "2022-10-21T00:00:00Z",
+            "redemptionsCap": 99
+        }
+    }
+]
